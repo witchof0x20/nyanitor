@@ -1,5 +1,5 @@
 [package]
-name = "fanmetric"
+name = "nyanitor"
 version = "0.1.0"
 authors = ["Jade <jade@bytes.moe>"]
 edition = "2018"
